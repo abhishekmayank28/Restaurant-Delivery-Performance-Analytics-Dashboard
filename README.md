@@ -111,6 +111,7 @@ Based on the analysis:
 
 
 ### 🔹 Customer Insights
+https://github.com/abhishekmayank28/Restaurant-Delivery-Performance-Analytics-Dashboard/blob/main/Screenshots/Customer_insight.png
 
 
 ### 🔹 Operations
