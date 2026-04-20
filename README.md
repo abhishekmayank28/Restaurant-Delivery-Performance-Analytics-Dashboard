@@ -116,6 +116,7 @@ https://github.com/abhishekmayank28/Restaurant-Delivery-Performance-Analytics-Da
 
 
 ### 🔹 Operations
+https://github.com/abhishekmayank28/Restaurant-Delivery-Performance-Analytics-Dashboard/blob/main/Screenshots/Operation.png
 
 
 
